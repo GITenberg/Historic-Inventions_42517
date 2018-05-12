@@ -1,0 +1,36 @@
+_repo: Historic-Inventions_42517
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42517-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holland, Rupert Sargent
+    aliases:
+    - Holland, R. S. (Rupert Sargent)
+    - Holland, Rupert S. (Rupert Sargent)
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '26423'
+    url: http://www.gutenberg.org/2009/agents/26423
+description: ''
+gutenberg_issued: '2013-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42517'
+  lccn: '11023819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'T'
+- !lcsh 'Inventions'
+tableOfContents: Gutenberg and the printing press -- Palissy and his enamel -- Galileo
+  and the telescope -- Watt and the steam-engine -- Arkwright and the spinning-jenny
+  -- Whitney and the cotton-gin -- Fulton and the steamboat -- Davy and the safety-lamp
+  -- Stephenson and the locomotive -- Morse and the telegraph -- Mccormick and the
+  reaper -- Howe and the sewing-machine -- Bell and the telephone -- Edison and the
+  electric light -- Marconi and the wireless telegraph -- The Wrights and the airship.
+title: Historic Inventions
+url: http://www.gutenberg.org/ebooks/42517
